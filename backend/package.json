@@ -1,0 +1,1 @@
+{\n  "name": "rental-platform-backend",\n  "version": "1.0.0",\n  "description": "Backend for rental platform",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "pg": "^8.7.1",\n    "jsonwebtoken": "^8.5.1",\n    "bcryptjs": "^2.4.3",\n    "stripe": "^8.181.0"\n  }\n}
